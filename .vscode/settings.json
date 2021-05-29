@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "Uebung20/DateServer/lib/javax.servlet-api-4.0.1.jar"
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
